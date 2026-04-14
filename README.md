@@ -11,6 +11,7 @@ Core Competencies: Debugging, root cause analysis, system optimization, applicat
 Other Skills: UI design, data analysis, process automation, technical documentation
 
 Projects
+
 GitHub Portfolio Website 
 SQL Practice Queries
 
