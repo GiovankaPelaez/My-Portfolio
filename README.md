@@ -8,7 +8,7 @@ I am an education leader transitioning into IT with experience in data, operatio
 
 ## Skills
 - Python
-- C/C++
+- C/C++/Visual C++
 - Java
 - Swift 
 - HTML & CSS
