@@ -10,6 +10,7 @@ I am an education leader transitioning into IT with experience in data, operatio
 - Python
 - C/C++/Visual C++
 - Java
+- Unix
 - Swift 
 - HTML & CSS
 - SQL 
