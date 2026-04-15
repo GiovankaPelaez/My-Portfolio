@@ -13,13 +13,12 @@ I am an education leader transitioning into IT with experience in data analysis,
 - Unix
 - Swift 
 - HTML & CSS
-- SQL 
-- Data management 
+- SQL  
 
 ## Projects
 - Python Student Data
 - Portfolio Website 
-- SQL Practice Queries 
+- SQL Queries 
 
 ## Contact
 Email: giovankapelaez@gmail.com
