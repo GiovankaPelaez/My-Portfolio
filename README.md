@@ -4,7 +4,7 @@
 Welcome to my GitHub portfolio!
 
 ## About Me
-I am an education leader transitioning into IT with experience in data analysis, operations, and systems automation. I am currently building my technical skills in HTML and SQL.
+I am an education leader transitioning into IT with experience in data analysis, operations, and systems automation. I am currently building my technical skills in Microsoft Azure.
 
 ## Skills
 - Python
